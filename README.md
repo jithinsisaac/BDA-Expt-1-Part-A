@@ -1,5 +1,5 @@
 ### Big Data Analytics | ECCDLO7032 
-Department of Electronics & Telecommunciation, 
+Department of Electronics & Telecommunciation Engineering, 
 Don Bosco Institute of Technology, Mumbai.  
 **Faculty Coordinator:** Mr. Jithin Isaac
 
@@ -19,7 +19,7 @@ To learn the basics of HTML & CSS & Bootstrap.
 - Learn basics of creating a webpage with Navigation bar using Bootstrap 4
 
 ### Deliverables
-1. HTML Webpage with CSS Elements i.e. one .html file and one .css file to be committed along with this README.md file 
+1. HTML Webpage with CSS Elements i.e. one .html file and one .css file and other supporting files to be committed along with this README.md file 
 
 ### Procedure
 #### Basics of HTML & CSS
