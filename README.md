@@ -1,7 +1,7 @@
 ### Big Data Analytics | ECCDLO7032 
 Department of Electronics & Telecommunciation, 
 Don Bosco Institute of Technology, Mumbai.  
-Course Coordinator: Mr. Jithin Isaac
+**Faculty Coordinator** Mr. Jithin Isaac
 
 ### Laboratory Experiment No. 1 Part A
 
