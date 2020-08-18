@@ -1,7 +1,7 @@
 ### Big Data Analytics | ECCDLO7032 
 Department of Electronics & Telecommunciation, 
 Don Bosco Institute of Technology, Mumbai.  
-**Faculty Coordinator** Mr. Jithin Isaac
+**Faculty Coordinator:** Mr. Jithin Isaac
 
 ### Laboratory Experiment No. 1 Part A
 
@@ -16,11 +16,10 @@ To learn the basics of HTML & CSS & Bootstrap.
 ### Experiment Outcome
 - Learn basics of HTML  
 - Learn basic of CSS
-- Learn basics of creating a page using Bootstrap 4
+- Learn basics of creating a webpage with Navigation bar using Bootstrap 4
 
 ### Deliverables
-1. HTML Webpage with CSS Elements i.e. one .html page and one .css page to be committed along with this README.md file
-
+1. HTML Webpage with CSS Elements i.e. one .html file and one .css file to be committed along with this README.md file 
 
 ### Procedure
 #### Basics of HTML & CSS
